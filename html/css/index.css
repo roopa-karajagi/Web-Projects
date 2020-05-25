@@ -10,6 +10,7 @@ h1{
     background-color: grey;
     margin: 25px;
     padding:25px;
+    font-style: italic;
 }
 
 
@@ -21,9 +22,8 @@ h1{
     height: 50%;
     width: 200px;
     position: fixed;
-    z-index: 1;
     top: 200px;
-    left: 0;
+    z-index: 1;
     overflow-x: hidden;
   }
 

@@ -1,0 +1,24 @@
+div {
+    text-align: center;
+    margin:50px;
+}
+
+form{
+    margin: auto;
+    padding:25px;
+}
+
+#un,#pw {
+
+    margin: 25px;
+    padding:5px;
+    width: 350px;
+}
+
+
+#login{
+    margin :10px;
+    position: relative;
+    left:80px;
+    padding: 2px;
+}
